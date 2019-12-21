@@ -33,7 +33,7 @@ import logging
 import platform
 from deprecated import deprecated
 
-from PyQt5 import QtCore
+from PySide2 import QtCore
 
 from qdarkgraystyle import compile_qrc, pyqt5_style_rc
 
