@@ -18,13 +18,15 @@ A dark gray stylesheet for PySide2 applications. This theme is a ported from htt
 Installation
 ============
 
-Install **qdarkgraystyle** package using the *setup* script or using *pip*
+Install **qdarkgraystyle** package using the *setup* script
 
 .. code:: bash
 
     python setup.py install
-
+    
+or using *pip*
 .. code:: bash
+
     pip install git+https://github.com/09ubberboy90/qdarkgraystyle.git 
     
 Usage
