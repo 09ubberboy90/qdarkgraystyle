@@ -39,11 +39,11 @@ setup(
     name='qdarkgraystyle',
     version=__version__,
     packages=find_packages(),
-    url='https://github.com/mstuttgart/qdarkgraystyle',
+    url='https://github.com/09ubberboy90/qdarkgraystyle',
     license='MIT License',
-    author='Michell Stuttgart',
-    author_email='michellstut@gmail.com',
-    description='A dark gray stylesheet for PyQt/PySide applications',
+    author='Florent Audonney',
+    author_email='audoflo@hotmail.com',
+    description='A dark gray stylesheet for PySide2 applications',
     long_description=readme,
 
     install_requires=[
