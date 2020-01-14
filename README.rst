@@ -70,5 +70,5 @@ Here are a few snapshots:
 
 Credits
 =======
-This package is totally based on `QDarkStyleSheet <https://github.com/ColinDuquesnoy/QDarkStyleSheet>`_ theme created by `Colin Duquesnoy <https://github.com/ColinDuquesnoy>`_. and ported from <https://github.com/mstuttgart/qdarkgraystyle> by <https://github.com/mstuttgart>
+This package is totally based on `QDarkStyleSheet <https://github.com/ColinDuquesnoy/QDarkStyleSheet>`_ theme created by `Colin Duquesnoy <https://github.com/ColinDuquesnoy>`_. and ported from `qdarkgraystyle <https://github.com/mstuttgart/qdarkgraystyle>`_ by `Michell Stuttgart <https://github.com/mstuttgart>`_.
 Copyright (C) 2019-2020
