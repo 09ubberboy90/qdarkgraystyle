@@ -1,0 +1,3 @@
+deprecated==1.2.7
+pyside2==5.13.2
+
