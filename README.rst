@@ -25,6 +25,7 @@ Install **qdarkgraystyle** package using the *setup* script
     python setup.py install
     
 or using *pip*
+
 .. code:: bash
 
     pip install git+https://github.com/09ubberboy90/qdarkgraystyle.git 
